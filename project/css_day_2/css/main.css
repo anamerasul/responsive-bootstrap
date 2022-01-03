@@ -1,0 +1,16 @@
+h1{
+    color:steelblue;
+}
+
+small{
+    display:block;
+}
+
+h3{
+    display:inline;
+}
+
+
+h2 {
+    border-top: 4px dotted blue;
+  }

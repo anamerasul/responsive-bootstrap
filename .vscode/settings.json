@@ -1,0 +1,5 @@
+{
+    "codedeploy.region": "us-east-2",
+    "codedeploy.applicationName": "h",
+    "codedeploy.isApplicationWorkspace": true
+}
