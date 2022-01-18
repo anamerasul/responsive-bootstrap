@@ -1,0 +1,113 @@
+.row-cols-my-xxl-auto > * {
+    flex: 0 0 auto;
+    width: auto;
+  }
+
+  .row-cols-my-xxl-1 > * {
+    flex: 0 0 auto;
+    width: 100%;
+  }
+  .row-cols-my-xxl-2 > * {
+    flex: 0 0 auto;
+    width: 91.66666666666667%;
+  }
+  .row-cols-my-xxl-3 > * {
+    flex: 0 0 auto;
+    width: 83.33333333333333%;
+  }
+  .row-cols-my-xxl-4 > * {
+    flex: 0 0 auto;
+    width: 75%;
+  }
+  .row-cols-my-xxl-5 > * {
+    flex: 0 0 auto;
+    width: 66.66666666666667%;
+  }
+  .row-cols-my-xxl-6 > * {
+    flex: 0 0 auto;
+    width: 58.33333333333333%;
+  }
+  .row-cols-my-xxl-7 > * {
+    flex: 0 0 auto;
+    width: 50%;
+  }
+  .row-cols-my-xxl-8 > * {
+    flex: 0 0 auto;
+    width: 41.66666666666667%;
+  }
+  .row-cols-my-xxl-9 > * {
+    flex: 0 0 auto;
+    width: 33.33333333333333%;
+  }
+  .row-cols-my-xxl-10 > * {
+    flex: 0 0 auto;
+    width: 25%;
+  }
+  .row-cols-my-xxl-11 > * {
+    flex: 0 0 auto;
+    width: 16.66666666666667%;
+  }
+  .row-cols-my-xxl-12 > * {
+    flex: 0 0 auto;
+    width: 8.333333333333333%;
+  }
+
+  @media(max-width:1200px) {
+
+    .row-cols-my-xxl-auto > * {
+        flex: 0 0 auto;
+        width: auto;
+      }
+    
+      .row-cols-my-xl-1 > * {
+        flex: 0 0 auto;
+        width: 100%;
+      }
+      .row-cols-my-xl-2 > * {
+        flex: 0 0 auto;
+        width: 91.66666666666667%;
+      }
+      .row-cols-my-xl-3 > * {
+        flex: 0 0 auto;
+        width: 83.33333333333333%;
+      }
+      .row-cols-my-xl-4 > * {
+        flex: 0 0 auto;
+        width: 75%;
+      }
+      .row-cols-my-xl-5 > * {
+        flex: 0 0 auto;
+        width: 66.66666666666667%;
+      }
+      .row-cols-my-xl-6 > * {
+        flex: 0 0 auto;
+        width: 58.33333333333333%;
+      }
+      .row-cols-my-xl-7 > * {
+        flex: 0 0 auto;
+        width: 50%;
+      }
+      .row-cols-my-xl-8 > * {
+        flex: 0 0 auto;
+        width: 41.66666666666667%;
+      }
+      .row-cols-my-xl-9 > * {
+        flex: 0 0 auto;
+        width: 33.33333333333333%;
+      }
+      .row-cols-my-xl-10 > * {
+        flex: 0 0 auto;
+        width: 25%;
+      }
+      .row-cols-my-xl-11 > * {
+        flex: 0 0 auto;
+        width: 16.66666666666667%;
+      }
+      .row-cols-my-xl-12 > * {
+        flex: 0 0 auto;
+        width: 8.333333333333333%;
+      }
+      
+  }
+
+
